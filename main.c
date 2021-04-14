@@ -12,7 +12,7 @@
 #include "usb.h"
 #include "usb_cdc.h"
 
-
+//роап
 int main() {
     system_clock_init();
     system_interrupts_init();
